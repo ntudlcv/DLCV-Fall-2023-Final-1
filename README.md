@@ -6,7 +6,8 @@
 bash train.sh <Path to videos folder> <annotation file> [additional path(s)...]
 bash inference.sh <Path to videos folder> <annotation file>
 ```
-* For the **training code**, feel free to add extra paths to your training script if you want to use additional data such as bounding boxes or hyper-graphs. 
+* For the **training code**, feel free to add extra paths to your training script if you want to use additional data such as bounding boxes or hyper-graphs.
+* You can modify `.gitignore` file to avoid uploading your data
 
 # Usage
 To start working on this final project, you should clone this repository into your local machine by the following command:
