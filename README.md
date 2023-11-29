@@ -14,11 +14,11 @@ To start working on this final project, you should clone this repository into yo
   
 Note that you should replace `<team_name>` with your own team name.
 
-For more details, please click [this link](https://docs.google.com/presentation/d/1Y-gwBmucYgbWLLk-u6coHi7LybFLXgA9gV8KiOiKShI/edit?usp=sharing) to view the slides of Final Project - Talking to me. **Note that video and introduction pdf files for final project can be accessed in your NTU COOL.**
+For more details, please click [this link](https://docs.google.com/presentation/d/1TsR0l84wWNNWH7HaV-FEPFudr3o9mVz29LZQhFO22Vk/edit?usp=sharing) to view the slides of Final Project - Talking to me. **Note that video and introduction pdf files for final project can be accessed in your NTU COOL.**
 
 # Submission Rules
 ### Deadline
-111/12/29 (Thur.) 23:59 (GMT+8)
+112/12/28 (Thur.) 23:59 (GMT+8)
     
 # Q&A
 If you have any problems related to Final Project, you may
