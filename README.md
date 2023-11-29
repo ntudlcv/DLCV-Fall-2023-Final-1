@@ -15,7 +15,7 @@ To start working on this final project, you should clone this repository into yo
   
 Note that you should replace `<team_name>` with your own team name.
 
-For more details, please click [this link](https://docs.google.com/presentation/d/1TsR0l84wWNNWH7HaV-FEPFudr3o9mVz29LZQhFO22Vk/edit?usp=sharing) to view the slides of Final Project - Talking to me. **Note that video and introduction pdf files for final project can be accessed in your NTU COOL.**
+For more details, please click [this link](https://docs.google.com/presentation/d/1TsR0l84wWNNWH7HaV-FEPFudr3o9mVz29LZQhFO22Vk/edit?usp=sharing) to view the slides of Final Project - STAR Benchmark. **Note that video and introduction pdf files for final project can be accessed in your NTU COOL.**
 
 # Dataset Overview
 The following files are required for use in your training process.
