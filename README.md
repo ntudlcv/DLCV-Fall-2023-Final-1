@@ -1,4 +1,4 @@
-# DLCV Final Project ( Talking to me )
+# DLCV Final Project ( STAR )
 
 # How to run your code?
 * TODO: Please provide the scripts for TAs to reproduce your results, including training and inference. For example, 
@@ -10,7 +10,7 @@ bash inference.sh <Path to videos folder> <Path to seg folder> <Path to bbox fol
 # Usage
 To start working on this final project, you should clone this repository into your local machine by the following command:
 
-    git clone https://github.com/ntudlcv/DLCV-Fall-2022-Final-1-<team name>.git
+    git clone https://github.com/ntudlcv/DLCV-Fall-2023-Final-1-<team name>.git
   
 Note that you should replace `<team_name>` with your own team name.
 
