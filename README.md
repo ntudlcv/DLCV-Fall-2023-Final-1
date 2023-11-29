@@ -3,9 +3,10 @@
 # How to run your code?
 * TODO: Please provide the scripts for TAs to reproduce your results, including training and inference. For example, 
 ```shell script=
-bash train.sh <Path to videos folder> <Path to seg folder> <Path to bbox folder>
-bash inference.sh <Path to videos folder> <Path to seg folder> <Path to bbox folder> <Path to output csv file>
+bash train.sh <Path to videos folder> <annotation file> [additional path(s)...]
+bash inference.sh <Path to videos folder> <annotation file>
 ```
+* For the **training code**, feel free to add extra paths to your training script if you want to use additional data such as bounding boxes or hyper-graphs. 
 
 # Usage
 To start working on this final project, you should clone this repository into your local machine by the following command:
@@ -15,6 +16,22 @@ To start working on this final project, you should clone this repository into yo
 Note that you should replace `<team_name>` with your own team name.
 
 For more details, please click [this link](https://docs.google.com/presentation/d/1TsR0l84wWNNWH7HaV-FEPFudr3o9mVz29LZQhFO22Vk/edit?usp=sharing) to view the slides of Final Project - Talking to me. **Note that video and introduction pdf files for final project can be accessed in your NTU COOL.**
+
+# Dataset Overview
+The following files are required for use in your training process.
+
+### Question, Multiple Choice Answers and Situation Graphs
+
+* Questions and Answers (.json) : [Train](https://star-benchmark.s3.us-east.cloud-object-storage.appdomain.cloud/Question_Answer_SituationGraph/STAR_train.json) [Val](https://star-benchmark.s3.us-east.cloud-object-storage.appdomain.cloud/Question_Answer_SituationGraph/STAR_val.json) [Test](https://star-benchmark.s3.us-east.cloud-object-storage.appdomain.cloud/Question_Answer_SituationGraph/STAR_test.json)
+* Split file (Optional): [Train/Val/Test Split File (.json)](https://star-benchmark.s3.us-east.cloud-object-storage.appdomain.cloud/Question_Answer_SituationGraph/split_file.json)
+
+### Video Data  
+* [raw video data](https://prior.allenai.org/projects/charades): recommend: Data(scaled up to 480p)
+
+If you want to use additional data such as bounding boxes, hyper-graphs, ..., please refer to the following links for more information.
+* [Star Official Website](https://bobbywu.com/STAR/#repo)
+* [GitHub](https://github.com/csbobby/STAR_Benchmark)
+
 
 # Submission Rules
 ### Deadline
